@@ -23,7 +23,7 @@
     "class-variance-authority": "^0.7.0",
     "classnames": "^2.3.2",
     "clsx": "^2.0.0",
-    "date-fns": "^2.30.0",
+    "date-fns": "^3.6.0",
     "dayjs": "^1.11.9",
     "lodash-es": "^4.17.21",
     "lucide-react": "^0.331.0",
